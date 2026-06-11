@@ -10,3 +10,7 @@
 	path = code
 	url = git@github.com:djarecka/simple2_scripts.git
 	datalad-url = git@github.com:djarecka/simple2_scripts.git
+[submodule "derivatives/nidm_4.3.1"]
+	path = derivatives/nidm_4.3.1
+	url = ./derivatives/nidm_4.3.1
+	datalad-id = c1dea70a-9059-451e-86fc-a10d2a13ed97
