@@ -14,3 +14,7 @@
 	path = derivatives/nidm_4.3.1
 	url = ./derivatives/nidm_4.3.1
 	datalad-id = c1dea70a-9059-451e-86fc-a10d2a13ed97
+[submodule "derivatives/test_simple2-FSL"]
+	path = derivatives/test_simple2-FSL
+	url = /orcd/scratch/bcs/001/djarecka/fsl_bidsapp/feb27/3/fsl_bidsapp_new_study-ABIDE/site-Caltech/output_ria/alias/data
+	datalad-id = 2dab80e3-251d-46d4-afcb-3c69205a5c05
