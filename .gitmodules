@@ -18,3 +18,7 @@
 	path = derivatives/nidm_4.3.1
 	url = ./derivatives/nidm_4.3.1
 	datalad-id = 9fd3935b-2ff9-48de-95d8-139c65053dba
+[submodule "derivatives/nidm_test_4.3.1"]
+	path = derivatives/nidm_test_4.3.1
+	url = ./derivatives/nidm_test_4.3.1
+	datalad-id = 4149ef26-2b1f-42af-ac10-3f23baec936b
