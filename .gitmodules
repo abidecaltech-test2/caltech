@@ -34,3 +34,7 @@
 	path = derivatives/nidm_test_4.3.5
 	url = ./derivatives/nidm_test_4.3.5
 	datalad-id = f0276b74-6e72-4756-990d-e1abab5a90bf
+[submodule "derivatives/babs-fsl-nidm4.3.5_test"]
+	path = derivatives/babs-fsl-nidm4.3.5_test
+	url = ./derivatives/babs-fsl-nidm4.3.5_test
+	datalad-id = 1ee38ff8-c98b-49bc-bc87-9a536c2fa7e0
