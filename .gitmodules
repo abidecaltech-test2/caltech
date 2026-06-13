@@ -30,3 +30,7 @@
 	path = derivatives/nidm_test_4.3.3
 	url = ./derivatives/nidm_test_4.3.3
 	datalad-id = 60c28f40-3448-49cf-baf6-6b04b52e2e09
+[submodule "derivatives/nidm_test_4.3.5"]
+	path = derivatives/nidm_test_4.3.5
+	url = ./derivatives/nidm_test_4.3.5
+	datalad-id = f0276b74-6e72-4756-990d-e1abab5a90bf
