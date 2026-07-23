@@ -22,3 +22,7 @@
 	path = derivatives/nidm_4.5.0
 	url = ./derivatives/nidm_4.5.0
 	datalad-id = cd6b5dfb-5236-4483-ae2b-8f5beae69724
+[submodule "derivatives/babs-fsl-nidm4.5.0"]
+	path = derivatives/babs-fsl-nidm4.5.0
+	url = ./derivatives/babs-fsl-nidm4.5.0
+	datalad-id = 44086cd8-90a9-407a-be59-d0c1a0389776
