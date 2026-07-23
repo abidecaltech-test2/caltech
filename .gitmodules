@@ -18,22 +18,6 @@
 	path = derivatives/nidm_4.3.1
 	url = ./derivatives/nidm_4.3.1
 	datalad-id = 9fd3935b-2ff9-48de-95d8-139c65053dba
-[submodule "derivatives/nidm_test_4.3.1"]
-	path = derivatives/nidm_test_4.3.1
-	url = ./derivatives/nidm_test_4.3.1
-	datalad-id = 4149ef26-2b1f-42af-ac10-3f23baec936b
-[submodule "derivatives/nidm_test1_4.3.1"]
-	path = derivatives/nidm_test1_4.3.1
-	url = ./derivatives/nidm_test1_4.3.1
-	datalad-id = 192c14b6-a1c8-45bf-8c87-1dd503e3bb78
-[submodule "derivatives/nidm_test_4.3.3"]
-	path = derivatives/nidm_test_4.3.3
-	url = ./derivatives/nidm_test_4.3.3
-	datalad-id = 60c28f40-3448-49cf-baf6-6b04b52e2e09
-[submodule "derivatives/nidm_test_4.3.5"]
-	path = derivatives/nidm_test_4.3.5
-	url = ./derivatives/nidm_test_4.3.5
-	datalad-id = f0276b74-6e72-4756-990d-e1abab5a90bf
 [submodule "derivatives/nidm_4.5.0"]
 	path = derivatives/nidm_4.5.0
 	url = ./derivatives/nidm_4.5.0
