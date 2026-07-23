@@ -2,10 +2,6 @@
 	path = sourcedata/raw
 	url = ./sourcedata/raw
 	datalad-id = 76b736aa-2714-420b-8d56-2cfb4e51da3e
-[submodule "derivatives/nidm"]
-	path = derivatives/nidm
-	url = ./derivatives/nidm
-	datalad-id = 36e362b9-5020-4499-8457-152cbb43f766
 [submodule "code"]
 	path = code
 	url = git@github.com:djarecka/simple2_scripts.git
