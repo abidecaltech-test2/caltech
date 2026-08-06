@@ -18,10 +18,6 @@
 	path = derivatives/babs-fsl_test393_50k_fix1
 	url = ./derivatives/babs-fsl_test393_50k_fix1
 	datalad-id = 75e04a2f-e8d4-4778-a2c4-a7dad4fa52f1
-[submodule "derivatives/babs-fsl_test1"]
-	path = derivatives/babs-fsl_test1
-	url = ./derivatives/babs-fsl_test1
-	datalad-id = d73a24e8-58b3-4bb5-a463-59375ac0f91b
 [submodule "derivatives/babs-fsl_test2"]
 	path = derivatives/babs-fsl_test2
 	url = ./derivatives/babs-fsl_test2
