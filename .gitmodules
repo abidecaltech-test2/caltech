@@ -14,10 +14,6 @@
 	path = derivatives/nidm_4.5.0
 	url = ./derivatives/nidm_4.5.0
 	datalad-id = cd6b5dfb-5236-4483-ae2b-8f5beae69724
-[submodule "derivatives/babs-fsl_test393_50k_fix1"]
-	path = derivatives/babs-fsl_test393_50k_fix1
-	url = ./derivatives/babs-fsl_test393_50k_fix1
-	datalad-id = 75e04a2f-e8d4-4778-a2c4-a7dad4fa52f1
 [submodule "derivatives/babs-fsl_test2"]
 	path = derivatives/babs-fsl_test2
 	url = ./derivatives/babs-fsl_test2
