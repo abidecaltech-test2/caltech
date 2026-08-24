@@ -22,3 +22,7 @@
 	path = derivatives/babs-freesurfer-nidm_aug20
 	url = ./derivatives/babs-freesurfer-nidm_aug20
 	datalad-id = 9ab6d73f-a840-489d-9c0e-062486974be3
+[submodule "derivatives/babs-fsl_test_post_babs"]
+	path = derivatives/babs-fsl_test_post_babs
+	url = ./derivatives/babs-fsl_test_post_babs
+	datalad-id = 97339d2d-383d-499e-8e9d-c652397ff934
