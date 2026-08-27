@@ -26,3 +26,7 @@
 	path = derivatives/babs-freesurfer-nidm_aug26
 	url = ./derivatives/babs-freesurfer-nidm_aug26
 	datalad-id = db28fbaa-fa2a-4f7b-a822-b5cbdbc1a261
+[submodule "derivatives/freesurfer-nidm_caltech_all-subjects"]
+	path = derivatives/freesurfer-nidm_caltech_all-subjects
+	url = ./derivatives/freesurfer-nidm_caltech_all-subjects
+	datalad-id = 19371275-be7e-4fb9-8a4f-09b8a4a2bb26
