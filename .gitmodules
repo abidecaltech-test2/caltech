@@ -26,7 +26,3 @@
 	path = derivatives/babs-freesurfer-nidm_aug26
 	url = ./derivatives/babs-freesurfer-nidm_aug26
 	datalad-id = db28fbaa-fa2a-4f7b-a822-b5cbdbc1a261
-[submodule "derivatives/freesurfer-nidm"]
-	path = derivatives/freesurfer-nidm
-	url = ./derivatives/freesurfer-nidm
-	datalad-id = 19371275-be7e-4fb9-8a4f-09b8a4a2bb26
