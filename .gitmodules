@@ -1,6 +1,6 @@
 [submodule "sourcedata/raw"]
 	path = sourcedata/raw
-	url = ./sourcedata/raw
+	url = https://github.com/abidecaltech-test2/caltech-sourcedata-raw
 	datalad-id = 76b736aa-2714-420b-8d56-2cfb4e51da3e
 [submodule "code"]
 	path = code
@@ -8,15 +8,15 @@
 	datalad-url = git@github.com:djarecka/simple2_scripts.git
 [submodule "derivatives/nidm_4.3.1"]
 	path = derivatives/nidm_4.3.1
-	url = ./derivatives/nidm_4.3.1
+	url = https://github.com/abidecaltech-test2/caltech-derivatives-nidm_4.3.1
 	datalad-id = 9fd3935b-2ff9-48de-95d8-139c65053dba
 [submodule "derivatives/nidm_4.5.0"]
 	path = derivatives/nidm_4.5.0
-	url = ./derivatives/nidm_4.5.0
+	url = https://github.com/abidecaltech-test2/caltech-derivatives-nidm_4.5.0
 	datalad-id = cd6b5dfb-5236-4483-ae2b-8f5beae69724
 [submodule "derivatives/babs-fsl_test2"]
 	path = derivatives/babs-fsl_test2
-	url = ./derivatives/babs-fsl_test2
+	url = https://github.com/abidecaltech-test2/caltech-derivatives-babs-fsl_test2
 	datalad-id = 9a191cbb-ff06-4df1-a3b7-2b9d44eeb697
 [submodule "derivatives/babs-freesurfer-nidm_aug20"]
 	path = derivatives/babs-freesurfer-nidm_aug20
