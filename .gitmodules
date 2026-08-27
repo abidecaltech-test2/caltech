@@ -22,3 +22,7 @@
 	path = derivatives/babs-freesurfer-nidm_aug20_pub
 	url = https://github.com/abidecaltech-test2/caltech-derivatives-babs-freesurfer-nidm_aug20_pub
 	datalad-id = 9ab6d73f-a840-489d-9c0e-062486974be3
+[submodule "derivatives/babs-freesurfer-nidm_aug26"]
+	path = derivatives/babs-freesurfer-nidm_aug26
+	url = ./derivatives/babs-freesurfer-nidm_aug26
+	datalad-id = db28fbaa-fa2a-4f7b-a822-b5cbdbc1a261
