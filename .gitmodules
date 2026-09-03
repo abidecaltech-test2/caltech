@@ -36,5 +36,5 @@
 	datalad-id = f01f2b28-d69f-49d0-8e44-4d7c718e58af
 [submodule "derivatives/babs-freesurfer-nidm_pub"]
 	path = derivatives/babs-freesurfer-nidm_pub
-	url = /orcd/data/satra/002/datasets/simple2_datalad/study-ABIDE/site-Caltech/derivatives/babs-freesurfer-nidm
+	url = https://github.com/abidecaltech-test2/caltech-derivatives-babs-freesurfer.git
 	datalad-id = a60b51f4-a304-4772-9c78-21aae578d19c
