@@ -32,5 +32,5 @@
 	datalad-id = a60b51f4-a304-4772-9c78-21aae578d19c
 [submodule "derivatives/babs-mriqc-nidm_aug27_pub"]
 	path = derivatives/babs-mriqc-nidm_aug27_pub
-	url = /orcd/data/satra/002/datasets/simple2_datalad/study-ABIDE/site-Caltech/derivatives/babs-mriqc-nidm_aug27
+	url = https://github.com/abidecaltech-test2/caltech-derivatives-babs-mriqc.git
 	datalad-id = f0d68b7e-e963-4e37-b1bd-a11410c230f7
