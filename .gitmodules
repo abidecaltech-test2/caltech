@@ -18,10 +18,6 @@
 	path = derivatives/babs-fsl_test2
 	url = https://github.com/abidecaltech-test2/caltech-derivatives-babs-fsl_test2
 	datalad-id = 9a191cbb-ff06-4df1-a3b7-2b9d44eeb697
-[submodule "derivatives/babs-freesurfer-nidm_aug26_pub"]
-	path = derivatives/babs-freesurfer-nidm_aug26_pub
-	url = https://github.com/abidecaltech-test2/caltech-derivatives-babs-freesurfer-nidm_aug26_pub
-	datalad-id = db28fbaa-fa2a-4f7b-a822-b5cbdbc1a261
 [submodule "derivatives/babs-mriqc-nidm_aug27"]
 	path = derivatives/babs-mriqc-nidm_aug27
 	url = ./derivatives/babs-mriqc-nidm_aug27
