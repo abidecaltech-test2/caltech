@@ -32,7 +32,7 @@
 	datalad-id = a60b51f4-a304-4772-9c78-21aae578d19c
 [submodule "derivatives/babs-ants-nidm"]
 	path = derivatives/babs-ants-nidm
-	url = ./derivatives/babs-ants-nidm
+	url = https://github.com/abidecaltech-test2/caltech-derivatives-babs-ants
 	datalad-id = f01f2b28-d69f-49d0-8e44-4d7c718e58af
 [submodule "derivatives/babs-freesurfer-nidm_pub"]
 	path = derivatives/babs-freesurfer-nidm_pub
